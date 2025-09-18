@@ -31,19 +31,20 @@
 - Quản lý thông tin khách hàng.  
 - Quản lý hóa đơn và thanh toán.  
 - Thống kê, báo cáo hoạt động.  
-- 
 ---
 
 ## 👩‍💻 Vai trò
-- **Trần Phan Tuyết Lan** – Hỗ trợ code chức năng của đồ án, viết báo cáo và tài liệu đồ án và triển khai và kiểm thử hệ thống.  
+- **Trần Phan Tuyết Lan**
+-  Hỗ trợ code chức năng của đồ án.
+-  Viết báo cáo, Testcase, usecase liên quan và tài liệu đồ án.
+-  Triển khai và kiểm thử hệ thống.  
 ---
 
 ## 📂 Cấu trúc cơ bản
 📦 project-root
-┣ 📂 frontend # Code TypeScript
-┣ 📂 backend # Code PHP (Laravel)
-┣ 📂 resources # Views Blade templates
-┣ 📜 README.md # Tài liệu mô tả project
+--┣ 📂 frontend # Code TypeScript
+--┣ 📂 backend # Code PHP (Laravel)
+--┣ 📂 resources # Views Blade templates
 
 ---
 
