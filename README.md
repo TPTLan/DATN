@@ -9,19 +9,19 @@ Hệ thống được phát triển dựa trên mô hình **web application** v�
 ## ⚙️ Công nghệ sử dụng
 
 ### 🔹 Ngôn ngữ lập trình chính
-- **TypeScript (59%)**  
+- **TypeScript**  
   - Dùng cho **frontend**, giúp tăng tính an toàn kiểu dữ liệu và dễ bảo trì.  
   - Framework có thể là **React** hoặc **Angular**.  
 
-- **PHP (36.1%)**  
+- **PHP**  
   - Dùng cho **backend**, xây dựng API và xử lý nghiệp vụ.  
   - Framework chính: **Laravel**.  
 
-- **Blade (4.6%)**  
+- **Blade**  
   - Template engine của **Laravel**.  
   - Giúp render giao diện động, gắn dữ liệu từ backend vào HTML.  
 
-- **Other (0.3%)**  
+- **Other)**  
   - Bao gồm một số file cấu hình, script phụ trợ.
 
 ---
