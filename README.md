@@ -1,8 +1,7 @@
 # 🏨 Nghiên cứu và Xây dựng Hệ thống Quản lý Khách sạn
 
-## 📌 Giới thiệu
-Đồ án tập trung vào việc **nghiên cứu và xây dựng hệ thống quản lý khách sạn** nhằm hỗ trợ các nghiệp vụ như đặt phòng, quản lý khách hàng, hóa đơn và báo cáo.  
-Hệ thống được phát triển dựa trên mô hình **web application** với frontend – backend tách biệt, đảm bảo dễ mở rộng và bảo trì.
+##  📖 Giới thiệu đề tài
+Đề tài **“Nghiên cứu và Xây dựng Hệ thống Quản lý Khách sạn”** được thực hiện với mục tiêu mang lại giải pháp đặt phòng khách sạn trực tuyến hiện đại, tiện lợi và an toàn. Hệ thống cho phép khách hàng dễ dàng tìm kiếm, đặt phòng, thanh toán và đánh giá dịch vụ, đồng thời cung cấp cho quản trị viên công cụ quản lý hiệu quả về khách sạn, phòng, đơn đặt phòng và doanh thu. Với việc ứng dụng các công nghệ web phổ biến như **PHP, MySQL, TypeScript, Blade, Tailwind CSS**, hệ thống không chỉ đáp ứng nhu cầu lưu trú ngày càng tăng của khách du lịch mà còn giúp nâng cao uy tín, khả năng tiếp cận khách hàng của khách sạn, hướng đến xây dựng một nền tảng quản lý và trải nghiệm du lịch toàn diện.
 
 ---
 
@@ -21,7 +20,7 @@ Hệ thống được phát triển dựa trên mô hình **web application** v�
   - Template engine của **Laravel**.  
   - Giúp render giao diện động, gắn dữ liệu từ backend vào HTML.  
 
-- **Other)**  
+- **Other**  
   - Bao gồm một số file cấu hình, script phụ trợ.
 
 ---
@@ -32,7 +31,7 @@ Hệ thống được phát triển dựa trên mô hình **web application** v�
 - Quản lý thông tin khách hàng.  
 - Quản lý hóa đơn và thanh toán.  
 - Thống kê, báo cáo hoạt động.  
-
+- 
 ---
 
 ## 👩‍💻 Vai trò
