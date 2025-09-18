@@ -35,10 +35,8 @@ Hệ thống được phát triển dựa trên mô hình **web application** v�
 
 ---
 
-## 👩‍💻 Thành viên & Vai trò
-- **Trần Phan Tuyết Lan** – Developer chính, code và triển khai hệ thống.  
-- **Thành viên nhóm** – Hỗ trợ code chức năng đơn giản, kiểm thử, viết báo cáo và tài liệu đồ án.  
-
+## 👩‍💻 Vai trò
+- **Trần Phan Tuyết Lan** – Hỗ trợ code chức năng của đồ án, viết báo cáo và tài liệu đồ án và triển khai và kiểm thử hệ thống.  
 ---
 
 ## 📂 Cấu trúc cơ bản
@@ -61,8 +59,3 @@ Hệ thống hoạt động ổn định, có thể triển khai thực tế cho
 Làm cơ sở nghiên cứu cho việc phát triển các tính năng nâng cao như quản lý dịch vụ, tích hợp thanh toán online, hoặc phân tích dữ liệu.
 
 ---
-
-💡 Tác giả
-
-TPTLan – File Sharing System & Hotel Management Developer 🚀
-Thành viên nhóm – Hỗ trợ code, test và viết báo cáo đồ án.
